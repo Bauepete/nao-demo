@@ -609,7 +609,7 @@ class MyClass(GeneratedClass):
 			"Chinese" : "  ",
 			"English" : " ^start(animations/Stand/Gestures/Hey_1) Hello ^wait(animations/Stand/Gestures/Hey_1) ",
 			"French" : " ^start(animations/Stand/Gestures/Hey_1) Bonjour ^wait(animations/Stand/Gestures/Hey_1) ",
-			"German" : " Hallo\n^start(animations/Stand/Gestures/Hey_1) \nmeine Freunde, mein Name ist Luc. Ich wohne im Keller der HTL Leonding mit meinen \nRoboterfreunden. Wir haben schon viele Abenteuer zusammen erlebt. Oftmals spielen wir gemeinsam Fußball\noder Tanzen. \n\nDeswegen müsst ihr vorsichtig mit mir umgehen. Ich bin ziemlich tollpatschig.\nMein Freund  Peter  wird euch nun etwas mehr über meine Roboterfreunde erzählen. ^wait(animations/Stand/Gestures/Hey_1) ",
+			"German" : " Hallo\n^start(animations/Stand/Gestures/Hey_1) \nmeine Lieben, mein Name ist Luc. Ich wohne im Keller der HTL Leonding mit meinen \nRoboterfreunden. Wir haben schon viele Abenteuer zusammen erlebt. Oftmals spielen wir gemeinsam Fußball\noder Tanzen. \n\nDeshalb müsst ihr vorsichtig mit mir umgehen. Ich bin manchmal ein wenig tollpatschig.\n\nMein Freund  Peter  wird euch nun etwas mehr über meine Roboterfreunde erzählen. ^wait(animations/Stand/Gestures/Hey_1) ",
 			"Italian" : " ^start(animations/Stand/Gestures/Hey_1) Ciao ^wait(animations/Stand/Gestures/Hey_1) ",
 			"Japanese" : " ^start(animations/Stand/Gestures/Hey_1) こんにちは ^wait(animations/Stand/Gestures/Hey_1) ",
 			"Korean" : " ^start(animations/Stand/Gestures/Hey_1) 안녕하세요 ^wait(animations/Stand/Gestures/Hey_1) ",
@@ -645,11 +645,12 @@ class MyClass(GeneratedClass):
                                                                         <german>
                                                                             <![CDATA[Hallo
 ^start(animations/Stand/Gestures/Hey_1) 
-meine Freunde, mein Name ist Luc. Ich wohne im Keller der HTL Leonding mit meinen 
+meine Lieben, mein Name ist Luc. Ich wohne im Keller der HTL Leonding mit meinen 
 Roboterfreunden. Wir haben schon viele Abenteuer zusammen erlebt. Oftmals spielen wir gemeinsam Fußball
 oder Tanzen. 
 
-Deswegen müsst ihr vorsichtig mit mir umgehen. Ich bin ziemlich tollpatschig.
+Deshalb müsst ihr vorsichtig mit mir umgehen. Ich bin manchmal ein wenig tollpatschig.
+
 Mein Freund  Peter  wird euch nun etwas mehr über meine Roboterfreunde erzählen. ^wait(animations/Stand/Gestures/Hey_1)]]>
 </german>
                                                                         <italian>
